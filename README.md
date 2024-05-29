@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Senior Software Enginner [@epamsystems](x.com/epamsystems)
+Senior Software Enginner at [@epamsystems](x.com/epamsystems)
 
 ## 🚀 Technologies
 
@@ -30,3 +30,14 @@ Senior Software Enginner [@epamsystems](x.com/epamsystems)
 - [Shopping cart](https://pedantic-edison-0bf122.netlify.app/)
 - [News](https://relaxed-easley-671d49.netlify.app/)
 - [Todo](https://cranky-boyd-efd809.netlify.app/)
+
+## 📈 Statistics
+
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=eddievillegas&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eddievillegas&layout=compact&theme=radical)
+
+## 📫 Contact
+
+- [Linkedin](https://www.linkedin.com/in/eddievillegasb/)
+- [Email](mailto:Edgar_Villegas_B@outlook.com)
+- [X](https://x.com/EddieVillegasB)
