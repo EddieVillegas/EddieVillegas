@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-I'm a Full-Stack Cloud JS/TS Engineer
+Senior Software Enginner [@epamsystems](x.com/epamsystems)
 
-## Technologies
-
-### Front-end
+## 🚀 Technologies
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![JS](https://shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -15,23 +13,14 @@ I'm a Full-Stack Cloud JS/TS Engineer
 ![Vue](https://shields.io/badge/Vue-35495E?logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
-
-### Backend
-
 ![Node](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![Express](https://shields.io/badge/-Express-000?logo=express&logoColor=FFF)
-
-### Mobile
-
 ![React Native](https://img.shields.io/badge/React_Native-20232A?&logo=react&logoColor=61DAFB)
-
-### Databases
-
 ![Postrgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
 
-## Proyects
+## 🔨 Proyects
 
 - [Form](https://thriving-frangollo-d4945d.netlify.app/)
 - [Score Summary](https://eclectic-gaufre-9205dd.netlify.app/)
