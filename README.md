@@ -30,6 +30,8 @@ Senior Software Enginner at [@epamsystems](x.com/epamsystems)
 - [Shopping cart](https://pedantic-edison-0bf122.netlify.app/)
 - [News](https://relaxed-easley-671d49.netlify.app/)
 - [Todo](https://cranky-boyd-efd809.netlify.app/)
+- [Social Link Profile](https://sociallinksprofiledesing.netlify.app/)
+- [Pomodoro App](https://pomodoros-app.netlify.app/)
 
 ## 📈 Statistics
 
