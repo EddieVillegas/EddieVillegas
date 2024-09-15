@@ -22,16 +22,7 @@ Senior Software Enginner at [@epamsystems](x.com/epamsystems)
 
 ## 🔨 Proyects
 
-- [Form](https://thriving-frangollo-d4945d.netlify.app/)
-- [Score Summary](https://eclectic-gaufre-9205dd.netlify.app/)
-- [Scrum Dash](https://moonlit-granita-96db98.netlify.app/)
-- [QR Code](https://willowy-profiterole-6c2aa6.netlify.app/)
-- [Spootify Clone](https://cool-hummingbird-c47a00.netlify.app/)
-- [Shopping cart](https://pedantic-edison-0bf122.netlify.app/)
-- [News](https://relaxed-easley-671d49.netlify.app/)
-- [Todo](https://cranky-boyd-efd809.netlify.app/)
-- [Social Link Profile](https://sociallinksprofiledesing.netlify.app/)
-- [Pomodoro App](https://pomodoros-app.netlify.app/)
+- [chilaquilstack.dev](https://chilaquilstack.dev/proyects)
 
 ## 📈 Statistics
 
